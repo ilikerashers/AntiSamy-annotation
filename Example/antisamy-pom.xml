@@ -1,0 +1,6 @@
+        <!-- Security scanning tool -->
+        <dependency>
+            <groupId>org.owasp</groupId>
+            <artifactId>antisamy</artifactId>
+            <version>1.4</version>
+        </dependency>
